@@ -1,6 +1,8 @@
 i18n, PHP and Angularjs
 ===
 
+Developed by <a href='https://github.com/LeonardoCardoso' target='_blank'>@LeonardoCardoso</a>. 
+
 Easy i18n localization with PHP and Angularjs
 
 For more details, visit http://lab.leocardz.com/i18n-php-angularjs
