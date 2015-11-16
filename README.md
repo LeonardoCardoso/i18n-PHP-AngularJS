@@ -1,9 +1,9 @@
-i18n, PHP and Angularjs
+i18n, PHP and AngularJS
 ===
 
 Developed by <a href='https://github.com/LeonardoCardoso' target='_blank'>@LeonardoCardoso</a>. 
 
-Easy i18n localization with PHP and Angularjs
+Easy i18n localization with PHP and AngularJS
 
 For more details, visit http://lab.leocardz.com/i18n-php-angularjs
 
