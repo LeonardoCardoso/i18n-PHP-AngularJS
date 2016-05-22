@@ -9,6 +9,9 @@ For more details, visit http://lab.leocardz.com/i18n-php-angularjs
 
 ![Gameplay](https://github.com/LeonardoCardoso/i18n-PHP-Angularjs/blob/master/assets/gif.gif?raw=true)
 
+## Contact
+Contact me either by Twitter [@leocardz](https://twitter.com/leocardz) or emailing me to [contact@leocardz.com](mailto:contact@leocardz.com).
+
 
 ## License
 
