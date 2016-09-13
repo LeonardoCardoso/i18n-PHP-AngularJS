@@ -5,8 +5,6 @@ Developed by <a href='https://github.com/LeonardoCardoso' target='_blank'>@Leona
 
 Easy i18n localization with PHP and AngularJS
 
-For more details, visit http://lab.leocardz.com/i18n-php-angularjs
-
 ![Gameplay](https://github.com/LeonardoCardoso/i18n-PHP-Angularjs/blob/master/assets/gif.gif?raw=true)
 
 ## Contact
